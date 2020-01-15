@@ -84,3 +84,11 @@ C:\Users\Andre\Source\Repos\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\Dati
 C:\Users\Andre\Source\Repos\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.csproj.CopyComplete
 C:\Users\Andre\Source\Repos\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.dll
 C:\Users\Andre\Source\Repos\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.pdb
+C:\GSC\DatingApp\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.csprojAssemblyReference.cache
+C:\GSC\DatingApp\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\staticwebassets\DatingApp.API.StaticWebAssets.Manifest.cache
+C:\GSC\DatingApp\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\staticwebassets\DatingApp.API.StaticWebAssets.xml
+C:\GSC\DatingApp\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.MvcApplicationPartsAssemblyInfo.cache
+C:\GSC\DatingApp\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.AssemblyInfoInputs.cache
+C:\GSC\DatingApp\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.AssemblyInfo.cs
+C:\GSC\DatingApp\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.dll
+C:\GSC\DatingApp\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.pdb
