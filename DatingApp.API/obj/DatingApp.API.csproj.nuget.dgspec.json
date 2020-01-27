@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GSC\\DatingApp\\DatingApp\\DatingApp.API\\DatingApp.API.csproj": {}
+    "c:\\GSC\\DatingApp\\DatingApp\\DatingApp.API\\DatingApp.API.csproj": {}
   },
   "projects": {
-    "C:\\GSC\\DatingApp\\DatingApp\\DatingApp.API\\DatingApp.API.csproj": {
+    "c:\\GSC\\DatingApp\\DatingApp\\DatingApp.API\\DatingApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GSC\\DatingApp\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+        "projectUniqueName": "c:\\GSC\\DatingApp\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
         "projectName": "DatingApp.API",
-        "projectPath": "C:\\GSC\\DatingApp\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+        "projectPath": "c:\\GSC\\DatingApp\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
         "packagesPath": "C:\\Users\\poaand18\\.nuget\\packages\\",
-        "outputPath": "C:\\GSC\\DatingApp\\DatingApp\\DatingApp.API\\obj\\",
+        "outputPath": "c:\\GSC\\DatingApp\\DatingApp\\DatingApp.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -60,6 +60,14 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[3.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.6.0, )"
             }
           },
           "imports": [
