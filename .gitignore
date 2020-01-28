@@ -24,7 +24,7 @@ speed-measure-plugin*.json
 *.sublime-workspace
 
 # IDE - VSCode
-.vscode/*
+**/.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -40,7 +40,8 @@ npm-debug.log
 yarn-error.log
 testem.log
 /typings
-
+*.cachefile
+*.cache
 # System Files
 .DS_Store
 Thumbs.db
@@ -52,10 +53,16 @@ Thumbs.db
 
 # Build results
 [Dd]ebug/
+[Dd]ebugPublic/
 [Rr]elease/
+[Rr]eleases/
 x64/
+build/
+x86/
+bld/
 [Bb]in/
 [Oo]bj/
+[Ll]og/
 # build folder is nowadays used for build scripts and should not be ignored
 #build/
 
@@ -197,3 +204,4 @@ dist
 
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
+DatingApp.API/bin/Debug/
